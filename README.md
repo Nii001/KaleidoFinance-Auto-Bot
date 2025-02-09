@@ -25,7 +25,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
    ```bash
    npm install
    ```
-3. Create a wallets.txt file and add your wallet addresses (one per line):
+3. Create a wallets.txt file and add your wallet addresses (one per line):0x063CC5FB03f684DC2A45344B4EeB0C8a0E05319c
    ```bash
    nano wallets.txt
    ```
